@@ -15,8 +15,9 @@ XGBoost
 Compare model performance and select the best model for deployment.
 # Dataset :
 https://www.kaggle.com/datasets/ikynahidwin/depression-professional-dataset/data
-# Technologies Used
-Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+## Technologies
+- **Programming Language**: Python
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `seaborn` , `matplotlib`
 # Results
 Logistic Regression outperformed the other models with an accuracy of 0.98.
 
